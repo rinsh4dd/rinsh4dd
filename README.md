@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mohammed Rinshad 👋</h1>
+<h3 align="center">Aspiring Full Stack Developer | Passionate Coder | Life-long Learner</h3>
 
-<!--
-**rinsh4dd/rinsh4dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me
+- 🎓 BCA Graduate | Class of 2025  
+- 💻 Self-driven tech enthusiast exploring full stack development  
+- 🔭 Currently learning **React.js** and **JavaScript deeply**
+- 🌱 Goal: Become a job-ready full stack web developer  
+- ❤️ Love solving problems and building real-world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack I'm Working With
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinshad7518&show_icons=true&theme=radical" alt="Rinshad's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rinshad7518&theme=radical" alt="Rinshad's GitHub Streak" width="48%"/>
+</p>
+
+---
+
+### 📫 How to Reach Me
+- 📩 Email: [rinshadofficial@gmail.com](mailto:rinshadofficial@gmail.com)
+- 💼 LinkedIn: [Mohammed Rinshad](https://www.linkedin.com/in/mohammed-rinshad/)
+- 🌐 Portfolio: Coming soon...
+
+---
+
+### 🙏 Thanks for visiting my profile!
+_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+

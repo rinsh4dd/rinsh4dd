@@ -6,7 +6,7 @@
 ### 💡 About Me
 - 🎓 BCA Graduate | Class of 2025  
 - 💻 Self-driven tech enthusiast exploring full stack development  
-- 🔭 Currently learning **React.js** and **JavaScript deeply**
+- 🔭 Currently learning **React.js** and **JavaScript**
 - 🌱 Goal: Become a job-ready full stack web developer  
 - ❤️ Love solving problems and building real-world projects
 

@@ -12,15 +12,17 @@
 
 ---
 
-### 🛠️ Tech Stack I'm Working With
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+## 🛠️ My Development Toolkit
 
----
+<div align="center">
+  
+  | Frontend  | Tools & Others       |
+
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma&theme=light&perline=4" alt="Skill icons" />
+  </p>
+</div>
+
 
 ## 📊 GitHub Insights
 

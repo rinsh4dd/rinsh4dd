@@ -25,7 +25,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://readme-streak-stats.demolab.com/?user=rinsh4dd&theme=radical" width="48%"/>
+  <img src="https://readme-streak-stats.demolab.com/?username=rinsh4dd&theme=radical" width="48%"/>
 </p>
 
 

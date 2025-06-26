@@ -22,12 +22,31 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&theme=radical" width="100%"/>
+## 📊 GitHub Insights
 
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&count_private=true&theme=github_dark&hide=issues&border_radius=12&title_color=58A6FF&icon_color=58A6FF" width="95%" alt="GitHub Stats" />
+    </td>
+   <td align="center" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show=commits&theme=github_dark&count_private=true&custom_title=My+Commit+Breakdown&border_radius=12" width="95%" alt="Commit Stats" />
+</td>
+
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&theme=github-compact&hide_border=true&area=true&radius=12" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+
+
+
 
 
 
@@ -39,6 +58,6 @@
 - 🌐 Portfolio: [Portfolio](rinsh4dd.netlify.app)
 ---
 
-### 🙏 Thanks for visiting my profile!
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+###  Thanks for visiting my profile!
+_“Code is like humor. When you have to explain it, it’s bad.”
 

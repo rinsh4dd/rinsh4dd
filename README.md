@@ -55,8 +55,8 @@
 ---
 
 ### 📫 How to Reach Me
-- 📩 Email: [rinshadofficial@gmail.com](mailto:rinshadofficial@gmail.com)
-- 💼 LinkedIn: [Mohammed Rinshad](https://www.linkedin.com/in/mohammed-rinshad/)
+- 📩 Email: [rinshadcontacts@gmail.com](mailto:rinshadcontacts@gmail.com)
+- 💼 LinkedIn: [Mohammed Rinshad](https://www.linkedin.com/in/rinsh4dd/)
 - 🌐 Portfolio: [Portfolio](rinsh4dd.netlify.app)
 ---
 

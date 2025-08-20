@@ -1,12 +1,8 @@
-# Hey there! I'm Mohammed Rinshad 👨‍💻
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Rinshad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner;Building+Amazing+Experiences" alt="Typing SVG" />
-</div>
 
 ---
 
-## 🛠️ Skills Showcase
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,nodejs,git,github,vscode,figma,npm&theme=light&perline=7" alt="All Skills" />
@@ -14,25 +10,44 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🔥 Contribution Streak
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinsh4dd&theme=dark&hide_border=true&border_radius=15&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+</p>
+
+
+
+</div>
+
+## 📈 Repository Highlights
 
 <div align="center">
-
-### Frontend Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux&theme=light" alt="Frontend Skills" />
-</p>
-
-### Backend Power
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs&theme=light" alt="Backend Skills" />
-</p>
-
-### Tools & Workflow
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=light" alt="Tools" />
-</p>
-
+  <table width="100%">
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/rinsh4dd/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=github-readme-stats&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/rinsh4dd/portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/rinsh4dd/react-projects">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=react-projects&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/rinsh4dd/dotnet-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=dotnet-api&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -52,8 +67,29 @@
   </table>
 </div>
 
+### 🔥 Detailed Contribution Breakdown
+
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&custom_title=Contribution%20Timeline&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&radius=10" alt="Contribution Graph" />
+  <table>
+    <tr>
+      <td align="center"><strong>📅 This Week</strong></td>
+      <td align="center"><strong>📊 This Month</strong></td>
+      <td align="center"><strong>🎯 This Year</strong></td>
+      <td align="center"><strong>🏆 All Time</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&count_private=true&include_all_commits=true&custom_title=Weekly%20Stats&theme=tokyonight&hide_border=true&hide=prs,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Weekly Stats" />
+      </td>
+      <td align="center">📈 Active</td>
+      <td align="center">🔥 Consistent</td>
+      <td align="center">⭐ Growing</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00FF00&line=00FF00&point=39FF14&area=true&hide_border=true&radius=10&area_color=00FF00" alt="Contribution Graph" />
 </div>
 
 ---
@@ -84,16 +120,27 @@
 
 ---
 
-## 🌟 What Drives Me
+## 🌟 Development Philosophy
 
 <div align="center">
 
-> *"The best code is not just functional, but beautiful, readable, and maintainable."*
+### 🎯 Core Values
+<table>
+  <tr>
+    <td align="center">🚀</td>
+    <td align="center">💡</td>
+    <td align="center">🤝</td>
+    <td align="center">📚</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Innovation</strong></td>
+    <td align="center"><strong>Creativity</strong></td>
+    <td align="center"><strong>Collaboration</strong></td>
+    <td align="center"><strong>Growth</strong></td>
+  </tr>
+</table>
 
-🔥 **Passionate** about creating seamless user experiences  
-🧠 **Curious** about emerging technologies and best practices  
-🤝 **Collaborative** in building solutions that matter  
-📚 **Committed** to continuous learning and growth  
+> *"Code is poetry written in logic."*
 
 </div>
 

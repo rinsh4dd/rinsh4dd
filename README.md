@@ -10,7 +10,7 @@
 
 ---
 
-### 🔥 Contribution Streak
+#### 🔥 Contribution Streak
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinsh4dd&theme=dark&hide_border=true&border_radius=15&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </p>

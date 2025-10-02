@@ -50,7 +50,7 @@
   </table>
 </div>
 
----
+----
 
 ## 📈 GitHub Analytics
 

@@ -5,15 +5,17 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,git,github,vscode,figma,npm,&theme=light&perline=7" alt="All Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,git,github,vscode,figma,npm,sqlserver,ado,efcore&theme=light&perline=7" alt="All Skills" />
 </div>
 
 ----
+<div align="center">
 
 #### 🔥 Contribution Streak
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinsh4dd&theme=dark&hide_border=true&border_radius=15&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </p>
+</div>
 
 
 
@@ -143,6 +145,8 @@
 > *"Code is poetry written in logic."*
 
 </div>
+
+
 
 ---
 

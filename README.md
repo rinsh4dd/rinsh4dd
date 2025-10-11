@@ -7,8 +7,7 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,git,github,vscode,figma,npm,sqlserver,ado,efcore&theme=light&perline=7" alt="All Skills" />
-</div>
-
+</div
 ----
 <div align="center">
 

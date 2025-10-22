@@ -1,10 +1,5 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Rinshad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-
-
-
-
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,git,github,vscode,figma,npm,sqlserver,ado,efcore&theme=light&perline=7" alt="All Skills" />
 </div
@@ -16,11 +11,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rinsh4dd&theme=dark&hide_border=true&border_radius=15&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </p>
 </div>
-
-
-
 </div>
-
 ## 📈 Repository Highlights
 
 <div align="center">
@@ -145,9 +136,6 @@
 > *"Code is poetry written in logic."*
 
 </div>
-
-
-
 ---
 
 ## 📬 Let's Connect

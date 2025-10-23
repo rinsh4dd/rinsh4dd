@@ -1,164 +1,133 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Rinshad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,cs,dotnet,git,github,vscode,figma,npm,sqlserver,ado,efcore&theme=light&perline=7" alt="All Skills" />
-</div
-----
-<div align="center">
-
-#### 🔥 Contribution Streak
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rinsh4dd&theme=dark&hide_border=true&border_radius=15&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
-</p>
-</div>
-</div>
-## 📈 Repository Highlights
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/rinsh4dd/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=github-readme-stats&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/rinsh4dd/portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/rinsh4dd/react-projects">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=react-projects&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/rinsh4dd/dotnet-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rinsh4dd&repo=dotnet-api&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Pinned Repo" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=RInshad%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20ASP.NETCORE&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
-----
 
-## 📈 GitHub Analytics
+
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsh4dd&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/rinsh4dd/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
+  <a href="mailto:rinshadcontacts@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://rinsh4dd.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://www.instagram.com/rinsh4dd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
 
-### 🔥 Detailed Contribution Breakdown
-
+<!-- SEPARATOR -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><strong>📅 This Week</strong></td>
-      <td align="center"><strong>📊 This Month</strong></td>
-      <td align="center"><strong>🎯 This Year</strong></td>
-      <td align="center"><strong>🏆 All Time</strong></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&count_private=true&include_all_commits=true&custom_title=Weekly%20Stats&theme=tokyonight&hide_border=true&hide=prs,issues&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Weekly Stats" />
-      </td>
-      <td align="center">📈 Active</td>
-      <td align="center">🔥 Consistent</td>
-      <td align="center">⭐ Growing</td>
-    </tr>
-  </table>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&custom_title=Contribution%20Timeline&bg_color=0D1117&color=00FF00&line=00FF00&point=39FF14&area=true&hide_border=true&radius=10&area_color=00FF00" alt="Contribution Graph" />
-</div>
+<br>
 
----
+## 👨‍💻 About Me
 
-## 🎯 Current Focus
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-        <br><strong>React Ecosystem</strong>
-        <br><sub>Redux, Hooks, Context API</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" />
-        <br><strong>C# Development</strong>
-        <br><sub>OOP, LINQ, Async/Await</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" />
-        <br><strong>ASP.NET Core</strong>
-        <br><sub>Web APIs, MVC, Entity Framework</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🌟 Development Philosophy
-
-<div align="center">
-
-### 🎯 Core Values
-<table>
+<table border="0">
   <tr>
-    <td align="center">🚀</td>
-    <td align="center">💡</td>
-    <td align="center">🤝</td>
-    <td align="center">📚</td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Innovation</strong></td>
-    <td align="center"><strong>Creativity</strong></td>
-    <td align="center"><strong>Collaboration</strong></td>
-    <td align="center"><strong>Growth</strong></td>
+    <td width="60%">
+      <p align="justify">
+        Hey there 👋🏻 I’m <b>Rinshad!</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and ASP.NET-CORE to build modern solutions that perform flawlessly in the real world.
+      </p>
+      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
+      <ul>
+        <li>✨ Seamless RESTful APIs that just work</li>
+        <li>⚡ High-speed backends with ASP.NET Core </li>
+        <li>🧠 Database mastery with MS SQL</li>
+        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
+        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
+      </ul>
+      <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
+      <p>Let’s connect and create something impactful together! 🌐</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
+      <br>
+      <em>Turning complex ideas into elegant code</em>
+    </td>
   </tr>
 </table>
 
-> *"Code is poetry written in logic."*
+<br>
 
-</div>
----
-
-## 📬 Let's Connect
+## 🛠️ Technologies & Tools I Work With  
 
 <div align="center">
-  <a href="mailto:rinshadcontacts@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/rinsh4dd/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://rinsh4dd.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55" /><br><b>React</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" /><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
+    <td align="center"> <img src="https://skillicons.dev/icons?i=mssql" width="55" /><br><b>MSSQL</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
+
+
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
+  </tr>
+</table>
+
 </div>
 
----
+
+<br>
+
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinsh4dd&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views" />
-  
-  <br><br>
-  
-  **Thanks for stopping by!** ✨  
-  *"Code is poetry written in logic."*
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsh4dd&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
+</div>
+
+<br>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rinsh4dd&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+</div>
+
+<!-- SEPARATOR -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Rinshad </sub>
 </div>

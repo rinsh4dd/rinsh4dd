@@ -25,7 +25,7 @@
   <tr>
     <td width="60%">
       <p align="justify">
-        Hey there 👋🏻 I’m <b>Rinshad!</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and ASP.NET-CORE to build modern solutions that perform flawlessly in the real world.
+        Hey there 👋🏻 I’m <b>Rinshad!</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend  the interactivity of React, and ASP.NET-CORE to build modern solutions that perform flawlessly in the real world.
       </p>
       <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
       <ul>

@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Rinshad%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20ASP.NETCORE&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
-
-
-
 <div align="center">
   <a href="https://www.linkedin.com/in/rinsh4dd/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:rinshadcontacts@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
@@ -12,44 +9,91 @@
   <a href="https://www.instagram.com/rinsh4dd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
 
-<!-- SEPARATOR -->
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 <br>
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <p align="justify">
-        Hey there 👋🏻 I’m <b>Rinshad!</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend  the interactivity of React, and ASP.NET-CORE to build modern solutions that perform flawlessly in the real world.
-      </p>
-      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
-      <ul>
-        <li>✨ Seamless RESTful APIs that just work</li>
-        <li>⚡ High-speed backends with ASP.NET Core </li>
-        <li>🧠 Database mastery with MS SQL</li>
-        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
-        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
-      </ul>
-      <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
-      <p>Let’s connect and create something impactful together! 🌐</p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
-      <br>
-      <em>Turning complex ideas into elegant code</em>
-    </td>
-  </tr>
-</table>
+</div>
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+
 
 <br>
 
-## 🛠️ Technologies & Tools I Work With  
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6ZWszNzkzMHB5NWJ6Z3VmNmg2czU0Znhjdzh0bHdoMHJoMTYxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/200.webp?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Turning+Complex+Ideas;Into+Elegant+Code+%F0%9F%9A%80;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6ZWszNzkzMHB5NWJ6Z3VmNmg2czU0Znhjdzh0bHdoMHJoMTYxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/200.webp?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Turning+Complex+Ideas;Into+Elegant+Code+%F0%9F%9A%80;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6ZWszNzkzMHB5NWJ6Z3VmNmg2czU0Znhjdzh0bHdoMHJoMTYxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/200.webp?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Turning+Complex+Ideas;Into+Elegant+Code+%F0%9F%9A%80;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+</div>
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjV6ZWszNzkzMHB5NWJ6Z3VmNmg2czU0Znhjdzh0bHdoMHJoMTYxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/200.webp?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=646CFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Turning+Complex+Ideas;Into+Elegant+Code+%F0%9F%9A%80;Building+The+Future%2C+One+Line+At+A+Time" alt="Typing SVG" />
+</div>
 
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+### 👋 Hey there!
+
+I'm **Rinshad** - a passionate **Full Stack Developer** who transforms ideas into **clean, scalable, and high-performance** web applications. 
+
+I blend the power of **React** and **ASP.NET Core** to craft modern solutions that don't just work—they **excel** in the real world.
+
+<br>
+
+### 🎯 My Development Arsenal
+
+```javascript
+const rinshad = {
+    code: ["JavaScript", "C#", "HTML/CSS"],
+    technologies: {
+        frontEnd: ["React", "Redux", "Tailwind CSS"],
+        backEnd: ["ASP.NET Core", "REST APIs"],
+        databases: ["MS SQL Server"],
+        devOps: ["Docker", "AWS", "CI/CD"],
+    },
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
+
+<br>
+
+### 💼 What I Bring to the Table
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+✨ **RESTful APIs** - Seamless integrations that just work  
+⚡ **High-Speed Backends** - Powered by ASP.NET Core  
+🧠 **Database Wizardry** - MS SQL optimization & design  
+🎨 **Pixel-Perfect UIs** - React + Tailwind CSS magic  
+🚀 **Cloud Deployments** - Docker, Vercel, AWS mastery  
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 <div align="center">
 
 <table>
@@ -103,41 +147,50 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+
+<div align="center">
+  
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsh4dd&layout=compact&langs_count=7&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=646cff&icon_color=646cff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rinsh4dd&theme=tokyonight&hide_border=true&background=0D1117&stroke=646cff&ring=646cff&fire=ffaa00&currStreakLabel=646cff" />
 
-<br>
-<br>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinsh4dd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=646cff&text_color=c9d1d9" />
+<img width="64%" src="https://github-readme-activity-graph.vercel.app/graph?username=rinsh4dd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=646cff&line=646cff&point=ffaa00" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
 </div>
 
 <br>
 
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinsh4dd&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
 </div>
 
-<!-- SEPARATOR -->
+<br>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=rinsh4dd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rinsh4dd&label=Profile%20Views&color=646cff&style=for-the-badge" alt="Profile views">
+</div>
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<br>
+
 <div align="center">
-<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Rinshad </sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Rinshad</sub>
 </div>

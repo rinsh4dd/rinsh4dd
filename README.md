@@ -54,11 +54,11 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55" /><br><b>React</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" /><br><b>JavaScript</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" /><br>React</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" /><br>JavaScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" /><br>REST API</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" /><br>Redux Toolkit</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
   </tr>
@@ -76,7 +76,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
@@ -86,6 +86,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="55" /><br><b>Netlify</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=k8s" width="55" /><br><b>Kubernetes</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="55" /><br><b>Windows</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
 
   </tr>
 </table>

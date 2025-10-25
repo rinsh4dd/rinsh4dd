@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rinsh4dd/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:rinshadcontacts@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
-  <a href="https://rinsh4dd.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://rinsh4dd.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=netlify&logoColor=white&style=for-the-badge"/></a>&nbsp;
   <a href="https://www.instagram.com/rinsh4dd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
 
@@ -65,7 +65,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
-    <td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MSSQL</b></td>
+    <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><b>SQL Server</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>

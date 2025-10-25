@@ -65,11 +65,11 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
-        <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
     <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><b>SQL Server</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="Aws" width="65" /><br>AWS</td>
 
 
   </tr>
@@ -87,7 +87,9 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=k8s" width="55" /><br><b>Kubernetes</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="55" /><br><b>Windows</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
-
+    <td align="center"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="GitHub" width="65" /><br>Prettier</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=npm" width="55" /><br><b>npm</b></td>
+    <td align="center"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" /><br>JWT</td>
   </tr>
 </table>
 

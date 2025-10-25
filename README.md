@@ -65,8 +65,8 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
+        <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
     <td align="center" style="padding:10px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" /><br/><b>SQL Server</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
@@ -76,7 +76,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" /><br>GitHub</td>
+        <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>

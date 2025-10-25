@@ -80,6 +80,13 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=visualstudio" width="55" /><br><b>Visual Studio</b></td>
+  </tr>
+    <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=netlify" width="55" /><br><b>Netlify</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=k8s" width="55" /><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="55" /><br><b>Windows</b></td>
+
   </tr>
 </table>
 

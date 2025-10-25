@@ -65,7 +65,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c#" width="55" /><br><b>C#</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="55" /><br><b>.NET Core</b></td>
-    <td align="center"> <img src="https://skillicons.dev/icons?i=mssql" width="55" /><br><b>MSSQL</b></td>
+    <td align="center"> <img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MSSQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>

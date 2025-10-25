@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## ABOUT
 
 </div>
 
@@ -149,8 +149,7 @@ const rinshad = {
 
 
 <div align="center">
-  
-## 📊 GitHub Analytics
+
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rinsh4dd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=646cff&icon_color=646cff&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rinsh4dd&theme=tokyonight&hide_border=true&background=0D1117&stroke=646cff&ring=646cff&fire=ffaa00&currStreakLabel=646cff" />
@@ -168,12 +167,6 @@ const rinshad = {
 
 <br>
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=rinsh4dd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
 
 <br>
 
@@ -186,10 +179,6 @@ const rinshad = {
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
 
 <div align="center">
 <sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Rinshad</sub>

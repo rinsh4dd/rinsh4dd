@@ -26,9 +26,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-
-
-
 <br>
 
 <div align="center">

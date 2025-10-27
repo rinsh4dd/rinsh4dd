@@ -54,23 +54,28 @@ I blend the power of **React** and **ASP.NET Core** to craft modern solutions th
 
 <br>
 
-### 🎯 My Development Arsenal
+const Rinshad = {
+    programmingLanguages: ["JavaScript", "C#", "HTML", "CSS"],
 
-```javascript
-const rinshad = {
-    code: ["JavaScript", "C#", "HTML/CSS"],
     technologies: {
         frontEnd: ["React", "Redux", "Tailwind CSS"],
-        backEnd: ["ASP.NET Core", "REST APIs"],
-        databases: ["MS SQL Server"],
-        devOps: ["Docker", "AWS", "CI/CD"],
+        backEnd: ["ASP.NET Core", "RESTful Services"],
+        databaseManagement: ["Microsoft SQL Server"],
+        devOpsPractices: ["Docker", "AWS", "CI/CD Workflows"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
-};
-```
 
-<br>
+    professionalStrengths: [
+        "Adaptability to new technologies",
+        "Self-directed learning",
+        "Efficient problem-solving",
+        "Collaborative teamwork"
+    ],
+
+    currentFocus: "Developing scalable, secure, and high-performing web applications",
+    careerObjective:
+        "To contribute to innovative software products while continuously advancing my engineering and professional capabilities"
+};
+
 
 ### 💼 What I Bring to the Table
 

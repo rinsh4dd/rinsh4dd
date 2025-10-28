@@ -164,7 +164,7 @@ const Rinshad = {
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+  <img src="https://github.com/maxamin/maxamin/blob/main/assets/github-snake.svg" alt="Snake animation" width="100%">
 </div>
 
 <br>

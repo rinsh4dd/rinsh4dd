@@ -140,8 +140,6 @@ const Rinshad = {
 </table>
 
 </div>
-
-
 <br>
 
 <!-- SEPARATOR -->

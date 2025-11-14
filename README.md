@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Rinshad%20%20&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20ASP.NETCORE&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rinsh4dd/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:rinshadcontacts@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
